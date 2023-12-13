@@ -21,7 +21,7 @@ Tools
 
 repositories : https://github.com/shinjaeseok/groupware
 
-### [Pure PHP MVC](https://fw.joohong.work)
+### [Pure PHP MVC pattern](https://fw.joohong.work)
 ![image](https://github.com/shinjaeseok/shinjaeseok/assets/46877494/e880e8b9-b8dc-4ff2-96c8-0c6c1cf62089)
 
 repositories : [https://github.com/shinjaeseok/fw](https://github.com/shinjaeseok/jwork)
