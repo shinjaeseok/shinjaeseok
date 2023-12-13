@@ -8,7 +8,7 @@ Platforms & Languages
 
 experienced
 
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Node.js&logoColor=white"/>
    
 Tools
 ---
